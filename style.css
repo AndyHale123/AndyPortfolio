@@ -3,5 +3,13 @@ h1{color: green;
   font-size: 45px;
   text-align: center;
 }
-p{color: red;
+h2{color: red;
+  text-align: center;
+}
+img{
+  float: center;
+  border-style: dotted;
+  border-radius: 20px;
+  border-color: green;
+  border-width: 10px;
 }
