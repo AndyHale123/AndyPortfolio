@@ -5,7 +5,7 @@ h1{color: green;
 }
 h2{color: red;
   text-align: center;
-  text-decoration: underline:
+  text-decoration: underline;
 }
 img{
   float: center;
@@ -20,5 +20,5 @@ body{
 ul{
   float: center;
   color: green;
-  text-decoration: bold;
+  font-size: 10px;
 }
