@@ -1,5 +1,5 @@
 h1{color: green;
-  font-family: sans-serif;
+  font-family: fantasy;
   font-size: 45px;
   text-align: center;
 }
@@ -14,5 +14,5 @@ img{
   border-width: 10px;
 }
 body{
-  background-color: red;
+  background: purple;
 }
