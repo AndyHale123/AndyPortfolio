@@ -8,11 +8,11 @@ h2{color: red;
   text-decoration: underline;
 }
 img{
-  float: center;
-  border-style: dotted;
-  border-radius: 20px;
+  float: center !important;
+  border-style: solid;
+  border-radius: 50px;
   border-color: green;
-  border-width: 10px;
+  border-width: 20px;
 }
 body{
   background: purple !important;
