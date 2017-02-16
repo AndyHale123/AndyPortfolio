@@ -5,6 +5,7 @@ h1{color: green;
 }
 h2{color: red;
   text-align: center;
+  text-decoration: underline:
 }
 img{
   float: center;
@@ -15,4 +16,9 @@ img{
 }
 body{
   background: purple !important;
+}
+ul{
+  float: center;
+  color: green;
+  text-decoration: bold;
 }
