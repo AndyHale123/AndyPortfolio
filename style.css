@@ -17,8 +17,7 @@ img{
 body{
   background: purple !important;
 }
-ul{
-  float: center;
-  color: green;
-  font-size: 10px;
+.list{
+  text-align: center !important;
+  color: green !important;  
 }
