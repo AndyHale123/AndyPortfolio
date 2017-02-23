@@ -64,7 +64,14 @@ li a:hover {
 .hobbies{
   text-align: center;
 }
-ol{text-align: center;
-  list-style-position: inside;
+ol#horizontal-list{min-width:700px;
+  list-style: none;
   background-color: purple;
+  padding-top: 20px;
 }
+ol#horizontal-list li{display:inline;
+}
+.table{display:table;
+  margin: 0 auto;
+}
+
