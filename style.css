@@ -61,6 +61,9 @@ li a:hover {
   font-size: 20px;
   color: green;
 }
-.body{
+.hobbies{
   text-align: center;
+}
+ol{text-align: center;
+  background-color: purple;
 }
