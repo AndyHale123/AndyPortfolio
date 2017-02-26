@@ -28,12 +28,12 @@ body{
   color: green !important;  
   font-size: 20px;
 }
-ul {
+ul.navigationbar{
     list-style-type: none;
-    margin: 0;
+    /*margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #333;*/
 }
 li {
     float: left;
@@ -57,18 +57,19 @@ li a:hover {
   font-size: 40px;
 }
 .list2 {text-align: center;
-  font-family: serif;
+  /*font-family: serif;
   font-size: 20px;
-  background-color: purple;
+  background-color: purple; */
   color: green;
 }
 .hobbies{
   text-align: center;
 }
-ol#horizontal-list{min-width:700px;
+ol#horizontal-list{
+  /*min-width:700px;
   list-style: none;
   background-color: purple;
-  padding-top: 20px;
+  padding-top: 20px; */
 }
 ol#horizontal-list li{display:inline;
 }
