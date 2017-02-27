@@ -87,3 +87,8 @@ table{display:block;
   border-style: solid;
   border-color: green;
 }
+td{text-align: center;
+  border-width: 5px;
+  border-style: solid;
+  border-color: green;
+}
