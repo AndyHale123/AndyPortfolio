@@ -91,7 +91,10 @@ td{text-align: center;
   border-width: 5px;
   border-style: solid;
   border-color: green;
+  color: blue;
 }
 .center{display: block !important;
   margin: 0 auto !important;
+}
+tr{text-align: center;
 }
