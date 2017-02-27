@@ -81,4 +81,9 @@ ol#horizontal-list li{display:inline;
 .table{display:table;
   margin: 0 auto;
 }
-
+table{display:block;
+  margin: 0 auto;
+  border-width: 5px;
+  border-style: solid;
+  border-color: green;
+}
