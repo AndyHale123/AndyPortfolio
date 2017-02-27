@@ -24,13 +24,12 @@ img{
   border-radius: 70px;
   border-color: green;
   border-width: 20px;
-  width: 150px;
+  width: 350px;
 }
 body{
   background: purple !important;
 }
-.list{
-  text-align: center !important;
+.list{text-align: center !important;
   color: green !important;  
   font-size: 20px;
 }
