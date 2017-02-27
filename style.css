@@ -92,3 +92,6 @@ td{text-align: center;
   border-style: solid;
   border-color: green;
 }
+.center{display: block !important;
+  margin: 0 auto !important;
+}
