@@ -97,4 +97,6 @@ td{text-align: center;
   margin: 0 auto !important;
 }
 tr{text-align: center;
+  display: block;
+  margin: 0 auto;
 }
