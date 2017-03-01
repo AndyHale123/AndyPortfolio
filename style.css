@@ -100,3 +100,6 @@ tr{text-align: center;
   display: block;
   margin: 0 auto;
 }
+tr, td{
+  padding: 15px;
+}
