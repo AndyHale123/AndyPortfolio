@@ -105,3 +105,6 @@ tr, td{
 }
 th{text-align: center;
 }
+.lol{display:block;
+  margin: 0 auto;
+}
