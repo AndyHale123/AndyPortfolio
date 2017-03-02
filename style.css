@@ -88,6 +88,7 @@ td{text-align: center;
   border-style: double;
   border-color: blue;
   color: red;
+  font-family: monospace;
 }
 .center{display: block !important;
   margin: 0 auto !important;
