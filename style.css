@@ -87,7 +87,7 @@ td{text-align: center;
   border-width: 10px;
   border-style: double;
   border-color: blue;
-  color: blue;
+  color: red;
 }
 .center{display: block !important;
   margin: 0 auto !important;
