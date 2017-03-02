@@ -99,6 +99,6 @@ tr, td{
   padding: 15px;
 }
 th{text-align: center
-  color: red;
+  color: red !important;
   font-size: 20px;
 }
