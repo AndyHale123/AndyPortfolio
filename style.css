@@ -103,4 +103,6 @@ th{text-align: center;
 }
 ul li a{
   background-color: black;
+  text-align: center;
+  margin: 0 auto;
 }
