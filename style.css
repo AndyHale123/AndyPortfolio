@@ -81,7 +81,7 @@ ol#horizontal-list li{display:inline;
 .table{display:table;
   margin: 0 auto;
 }
-table{display:block;
+table{
   margin: 0 auto;
   border-width: 5px;
   border-style: solid;
@@ -97,14 +97,10 @@ td{text-align: center;
   margin: 0 auto !important;
 }
 tr{text-align: center;
-  display: block;
   margin: 0 auto;
 }
 tr, td{
   padding: 15px;
 }
 th{text-align: center;
-}
-.lol{display:block;
-  margin: 0 auto;
 }
