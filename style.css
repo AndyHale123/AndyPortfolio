@@ -50,7 +50,7 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #000;
+    background-color: #111;
 }
 .listheader {text-align: center;
   text-decoration: underline;
@@ -98,5 +98,7 @@ tr{text-align: center;
 tr, td{
   padding: 15px;
 }
-th{text-align: center;
+th{text-align: center
+  color: red;
+  font-size: 20px;
 }
