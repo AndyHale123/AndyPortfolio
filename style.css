@@ -98,7 +98,7 @@ tr{text-align: center;
 tr, td{
   padding: 15px;
 }
-th{text-align: center
+tr, th{text-align: center
   color: red !important;
   font-size: 20px;
 }
