@@ -1,4 +1,4 @@
-h2{color:red;
+h2{color: #5b0013;
   font-family: monospace;
   font-size: 30px;
   text-align: center;
@@ -23,7 +23,7 @@ img{
   width: 350px;
 }
 body{
-  background-color: #614051 !important;
+  background-color: #b7b7b7 !important;
 }
 .list{text-align: center !important;
   color: blue !important;  
