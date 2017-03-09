@@ -36,7 +36,7 @@ ul.navigationbar{
     overflow: hidden;
     background-color: #333;*/
 }
-li {
+.navigationbar li {
     float: left;
 }
 
