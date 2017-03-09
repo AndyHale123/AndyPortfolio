@@ -3,12 +3,12 @@ h2{color: #5b0013;
   font-size: 30px;
   text-align: center;
 }
-h1{color: green;
+h1{color: #e98524;
   font-family: fantasy !important;
   font-size: 45px;
   text-align: center;
 }
-p{color: lightblue;
+p{color: #0b3d4c;
   text-align: center;
   font-family: sans-serif;
   font-size: 20px;
@@ -18,7 +18,7 @@ img{
   margin:  0 auto;
   border-style: solid;
   border-radius: 70px;
-  border-color: green;
+  border-color: #726f2d;
   border-width: 20px;
   width: 350px;
 }
