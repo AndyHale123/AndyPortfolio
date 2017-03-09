@@ -71,10 +71,7 @@ li a:hover {
   text-align: center;
 }
 ol#horizontal-list{
-  /*min-width:700px;
-  list-style: none;
-  background-color: purple;
-  padding-top: 20px; */
+  text-align: center;
 }
 ol#horizontal-list li{display:inline;
 }
