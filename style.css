@@ -87,6 +87,7 @@ table{
   border-style: solid;
   border-color: #CA7A29;
   border-radius: 20px;
+  border-spacing: 10px;
 }
 td{text-align: center;
   border-width: 10px;
