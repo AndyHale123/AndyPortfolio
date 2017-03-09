@@ -1,4 +1,4 @@
-h2{color: #5b0013;
+h2{color: #16bbe6;
   font-family: monospace;
   font-size: 30px;
   text-align: center;
@@ -81,13 +81,13 @@ table{
   margin: 0 auto;
   border-width: 5px;
   border-style: solid;
-  border-color: green;
+  border-color: #CA7A29;
 }
 td{text-align: center;
-  border-width: 10px;
-  border-style: double;
-  border-color: blue;
-  color: red;
+  border-width: 15px;
+  border-style: solid;
+  border-color: #726f2d;
+  color: #0b3d4c;
   font-family: monospace;
 }
 .center{display: block !important;
