@@ -3,7 +3,7 @@ h2{color: #16bbe6;
   font-size: 30px;
   text-align: center;
 }
-h1{color: #e98524;
+h1{color: #5b0013;
   font-family: fantasy !important;
   font-size: 45px;
   text-align: center;
@@ -90,9 +90,6 @@ td{text-align: center;
   color: #0b3d4c;
   font-family: monospace;
 }
-.center{display: block !important;
-  margin: 0 auto !important;
-}
 tr{text-align: center;
   margin: 0 auto;
 }
@@ -101,5 +98,9 @@ tr, td{
 }
 tr, th{text-align: center
   color: red !important;
+  font-size: 20px;
+}
+th{text-align: center;
+  color: #5b0013;
   font-size: 20px;
 }
