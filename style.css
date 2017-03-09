@@ -86,7 +86,7 @@ table{
   border-width: 20px;
   border-style: solid;
   border-color: #CA7A29;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 td{text-align: center;
   border-width: 10px;
@@ -94,6 +94,7 @@ td{text-align: center;
   border-color: #726f2d;
   color: #0b3d4c;
   font-family: monospace;
+  border-radius: 10px;
 }
 tr{text-align: center;
   margin: 0 auto;
