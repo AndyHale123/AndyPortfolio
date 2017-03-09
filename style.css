@@ -1,4 +1,4 @@
-h2{color: #16bbe6;
+h2{color: #0b3d4c;
   font-family: monospace;
   font-size: 30px;
   text-align: center;
@@ -42,7 +42,7 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: #7a0019;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -79,12 +79,12 @@ ol#horizontal-list li{display:inline;
 }
 table{
   margin: 0 auto;
-  border-width: 5px;
+  border-width: 20px;
   border-style: solid;
   border-color: #CA7A29;
 }
 td{text-align: center;
-  border-width: 15px;
+  border-width: 10px;
   border-style: solid;
   border-color: #726f2d;
   color: #0b3d4c;
