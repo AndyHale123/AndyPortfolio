@@ -111,5 +111,9 @@ th{text-align: center;
 }
 .skit{ border-radius: 10px;
   border-width: 15px;
-  width: 60%;
+  width: 50%;
+}
+.visual{ border-radius: 10px;
+  width: 250%;
+  border-width: 15px;
 }
